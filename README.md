@@ -14,7 +14,6 @@ This research was supported by the State Key Program of National Natural Science
 
 *Due to confidentiality agreements, the original dataset used in this project consists of real-world vehicle data provided by a corporate partner and cannot be made publicly available. However, we are open to sharing a subset of reference data for research purposes. If you are interested, please send an email with a brief introduction of your identity and your intended use. Reference data will be provided upon review.
 
-
 Copyright © 2025 State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, University of Wuhan.  
 For questions, contact wangzhuoer@whu.edu.cn
 
